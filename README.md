@@ -1,0 +1,1 @@
+Ptoiectul este p Aplicația Flash Cards - Învățare Interactivă este o aplicatie educativa  conceputa pentru a face procesul de învățare mai eficient, captivant și interactiv. Cu ajutorul acestei aplicații, puteți să vă consolidați cunoștințele într-o gamă largă de subiecte.
