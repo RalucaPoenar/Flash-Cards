@@ -1,1 +1,1 @@
-Ptoiectul este o Aplicația Flash Cards - Învățare Interactiv,ă este o aplicatie educativa  conceputa pentru a face procesul de învățare mai eficient, captivant și interactiv. Cu ajutorul acestei aplicații, puteți să vă consolidați cunoștințele într-o gamă largă de subiecte.
+Ptoiectul este o Aplicația Flash Cards - Învățare Interactivă,  o aplicatie educativa  conceputa pentru a face procesul de învățare mai eficient, captivant și interactiv. Cu ajutorul acestei aplicații, puteți să vă consolidați cunoștințele într-o gamă largă de subiecte.
